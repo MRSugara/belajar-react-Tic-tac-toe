@@ -17,3 +17,6 @@ body{
     display: flex;
     flex-wrap: wrap;
 }
+.winner{
+    margin-bottom: 5px;
+}
